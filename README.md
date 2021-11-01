@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Andres
 #### I am a Full Stack Web Developer
 
-Skills: JavaScript / TypeScript / React / Redux / Html / Css / Node / Express / Sequelize / Bootstrap
+Skills: JavaScript / React / React Native/ Redux / HTML / CSS / Node JS / Express / Sequelize / PostgreSQL / Firebase 
 
 <!--
 **pruscius/pruscius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
