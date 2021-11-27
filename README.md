@@ -3,6 +3,7 @@
 
 ## 💻 Languages & Technologies
 - JavaScript
+- Typescript
 - HTML
 - CSS
 - SQL
