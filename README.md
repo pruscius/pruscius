@@ -6,7 +6,7 @@
 Runtime environment: Node JS
 
 | Languages        | Front-end           | Back-end  |
-| -------------    |:-------------------:| ---------:|
+|:----------------:|:-------------------:|:---------:|
 | Javascript       | React               | Express   |
 | Typescript       | React Navtive       | Sequelize |
 | HTML             | Expo                | PostgreSQL|
