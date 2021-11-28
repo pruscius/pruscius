@@ -3,7 +3,7 @@
 
 ## 💻 Languages & Technologies
 
-### - Runtime environment: Node JS ![nodeIcon](./assets/NodeJSIcon.jpg)
+#### - Runtime environment: Node JS ![nodeIcon](./assets/NodeJSIcon.jpg)
 
 | Languages        | Front-end           | Back-end  |
 |:----------------:|:-------------------:|:---------:|
