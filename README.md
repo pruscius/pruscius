@@ -3,7 +3,7 @@
 
 ## 💻 Languages & Technologies
 
-#### - Runtime environment: Node JS ![nodeIcon](./assets/NodeJSIcon.jpg)
+#### - Runtime environment: Node JS
 
 | Languages        | Front-end           | Back-end  |
 |:----------------:|:-------------------:|:---------:|
@@ -16,6 +16,7 @@
 <!-- 
 - 🔭 I’m currently developing a mobile app with a group of 7 people, using Expo and Firebase.
 - 📫 How to reach me: andi_frank19@hotmail.com  -->
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andres-frank-866b10216//)  
 
