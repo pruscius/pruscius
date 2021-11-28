@@ -11,6 +11,7 @@
 
 
 - JavaScript
+- Typescript
 - HTML
 - CSS
 - SQL
