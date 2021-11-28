@@ -3,27 +3,16 @@
 
 ## 💻 Languages & Technologies
 
-| Front-end        | Back-end           | Cool  |
-| -------------    |:-------------:     | -----:|
-| col 3 is         | right-aligned      | $1600 |
-| col 2 is         | centered           |   $12 |
-| zebra stripes    | are neat           |    $1 |
+Runtime environment: Node JS
 
+| Languages        | Front-end           | Back-end  |
+| -------------    |:-------------------:| ---------:|
+| Javascript       | React               | Express   |
+| Typescript       | React Navtive       | Sequelize |
+| HTML             | Expo                | PostgreSQL|
+| CSS              | Redux               | Firebase  |
+| SQL
 
-- JavaScript
-- Typescript
-- HTML
-- CSS
-- SQL
-- React
-- React Native
-- Expo
-- Redux 
-- Node JS
-- Express 
-- Sequelize
-- PostgreSQL
-- Firebase 
 <!-- 
 - 🔭 I’m currently developing a mobile app with a group of 7 people, using Expo and Firebase.
 - 📫 How to reach me: andi_frank19@hotmail.com  -->
