@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Andres, but you can call me Andy.
-#### I am a Full Stack Web Developer
+#### I am a Full Stack Web Developer.
 
 ## 💻 Languages & Technologies
 
