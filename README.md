@@ -8,7 +8,7 @@
 | Languages        | Front-end           | Back-end  |
 |:----------------:|:-------------------:|:---------:|
 | Javascript       | React               | Express   |
-| HTML             | React Navtive       | Sequelize |
+| HTML             | React Native        | Sequelize |
 | CSS              | Expo                | PostgreSQL|
 | SQL              | Redux               | Firebase  |
 
