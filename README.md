@@ -11,7 +11,8 @@
 | HTML             | React Native        | Sequelize |
 | CSS              | Expo                | PostgreSQL|
 | SQL              | Redux               | Firebase  |
-                                         | Passport  |
+|                  |                     | Passport  |
+
 
 <!-- 
 - 🔭 I’m currently developing a mobile app with a group of 7 people, using Expo and Firebase.
