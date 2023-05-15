@@ -12,8 +12,8 @@
 | CSS              | Expo                | PostgreSQL|
 | SQL              | Redux               | MySQL     |
 | Java             | Jest                | Passport  |
-                   | Testing Library     | Spring    |
-                   |                     | Firebase  |
+|                  | Testing Library     | Spring    |
+|                  |                     | Firebase  |
 
 
 <!-- 
