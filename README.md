@@ -10,8 +10,10 @@
 | Javascript       | React               | Express   |
 | HTML             | React Native        | Sequelize |
 | CSS              | Expo                | PostgreSQL|
-| SQL              | Redux               | Firebase  |
-|                  |                     | Passport  |
+| SQL              | Redux               | MySQL     |
+| Java             | Jest                | Passport  |
+                   | Testing Library     | Spring    |
+                   |                     | Firebase  |
 
 
 <!-- 
