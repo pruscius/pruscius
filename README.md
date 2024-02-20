@@ -14,6 +14,7 @@
 | Java             | Jest                | Passport  |
 |                  | Testing Library     | Spring    |
 |                  |                     | Firebase  |
+|                  |                     | PHP       |
 
 
 <!-- 
